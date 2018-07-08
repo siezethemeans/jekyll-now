@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome we at StM are aggregating news articles with a factual bent but mostly just stuff that interests us the most
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Working on it
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Working on it
