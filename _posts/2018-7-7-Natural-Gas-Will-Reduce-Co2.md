@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome
+title: Co2 Being Reduced By Natural Gas
 ---
 
 ## Uhhh
